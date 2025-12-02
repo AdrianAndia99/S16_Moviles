@@ -86,6 +86,7 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
+  audioSpatialExperience: 0
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -920,11 +921,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7e8189e7-41cf-4010-8cd6-7e337bd4b542
+  cloudProjectId: bbb10501-b098-4718-b086-a963ef6bf1af
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: S7MA
-  organizationId: unity_b87cceb470a58ca84f37
+  projectName: S7MA (7)
+  organizationId: unity_25887ba0af290fe4ba31
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
